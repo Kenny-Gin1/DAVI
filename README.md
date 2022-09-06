@@ -74,3 +74,6 @@ The script will start the dapp with the production configuration locally on port
 The script build the dapp with the production configuration and save it in the build folder.
 
 `yarn build`
+
+
+## Happy Coding
